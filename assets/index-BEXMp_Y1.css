@@ -1,0 +1,1 @@
+#root{width:100%;min-height:100vh}.page-shell{height:100dvh;overflow:auto}@keyframes popUp{0%{opacity:0;transform:translateY(12px) scale(.96)}to{opacity:1;transform:translateY(0) scale(1)}}.pop-up{opacity:0;animation:popUp .8s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:var(--delay, 0ms)}.icon-row{margin-top:16px;display:flex;gap:16px}

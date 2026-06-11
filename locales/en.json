@@ -1,0 +1,16 @@
+{
+    "navigation.home": "Home",
+    "navigation.about": "About",
+    "navigation.publications": "Publications",
+    "home.title": "Hello, I'm Carly!",
+    "home.description": "Welcome to my personal website! I am a doctoral student at Kyoto University, specializing in learning analytics and language education. This website serves as a platform to share my research, publications, and projects. Feel free to explore and learn more about my work!",
+    "about.description": "I am from Hong Kong and have lived in Japan since 2022. I completed my undergraduate studies in Professional Accounting at the Hong Kong Metropolitan University. After graduation, I worked in Accounting Department for a few years before pursuing my passion for research in education and technology. My academic journey has been driven by a desire to understand how technology can enhance learning experiences and outcomes, particularly in the context of language education.",
+    "about.description2": "I am currently a doctoral student at Kyoto University, where I focus on using generated images to support language learning. My research explores how visual aids can enhance writing skills and overall language proficiency. I am particularly interested in the intersection of learning analytics and language education, aiming to develop innovative approaches to support learners in their language acquisition journey.",
+    "about.contact": "You can also find me here:",
+    "publication.title": "Publications",
+    "project.title": "Projects",
+    "project.description": "Avery: An AI-powered writing assistant that generates images to support language learning. The project explores how visual aids can enhance writing skills and overall language proficiency, particularly in the context of English as a Foreign Language. The system uses generative AI to create images based on learners' writing, providing visual feedback and inspiration to improve their writing abilities. The project is currently in the development stage and collecting data from Japanese high school and junior high school students to evaluate the effectiveness of the system.",
+    "project.image1.caption": "Task Selection Interface",
+    "project.image2.caption": "Writing Interface",
+    "project.image3.caption": "Feedback Interface"
+}
